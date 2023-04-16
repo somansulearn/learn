@@ -1,0 +1,24 @@
+.mainsite {
+    background-color: tomato;
+    color: rgb(82, 79, 77);
+    height: 100vh;
+    font-family: segoe script;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.second {
+margin: 5px;
+}
+
+.pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: rgb(0, 0, 0);
+}
+body{
+    margin: 1;
+}
